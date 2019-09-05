@@ -12,7 +12,7 @@
 
 ## Installing
 
-In order to run the scraper, ensure that you have Git and [Python](https://www.python.org/downloads/) installed.
+In order to run the scraper, ensure that you have (Git)[https://git-scm.com/] and [Python](https://www.python.org/) installed.
 
 Install scrapy:
 
