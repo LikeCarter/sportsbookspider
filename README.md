@@ -1,6 +1,7 @@
 
 # py-scrape-sportsbookreview
 
+[![Supported Python Version](https://img.shields.io/pypi/pyversions/Scrapy.svg)](https://pypi.python.org/pypi/Scrapy)
 [![License](https://img.shields.io/github/license/likecarter/py-scrape-sportsbookreview)](https://dtmtheodds.com)
 
 [py-scrape-sportsbookreview](https://github.com/LikeCarter/py-scrape-sportsbookreview//) is an implementation of [Scrapy](https://github.com/scrapy/scrapy) that pulls historical betting odds from [SBR](https://www.sportsbookreview.com/). 
