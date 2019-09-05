@@ -47,7 +47,7 @@ scrapy check
 ### Debugging
 
 ```bash
-scrapy parse --spider=myspider -c parse_item -d 2 -v <item_url>
+scrapy parse --spider=dtmto -c parse_item -d 2 -v <item_url>
 ```
 
 ## Thanks
