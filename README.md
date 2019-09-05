@@ -12,6 +12,8 @@
 
 ## Installing
 
+In order to run the scraper, ensure that you have Git and [Python](https://www.python.org/downloads/) installed.
+
 Install scrapy:
 
 ```bash
@@ -50,7 +52,7 @@ scrapy parse --spider=myspider -c parse_item -d 2 -v <item_url>
 
 ## Thanks
 
-**serverless-stripe-backend** © 2019+, Carter Sprigings. Released under the [MIT] License.<br>
+**py-scrape-sportsbookreview** © 2019+, Carter Sprigings. Released under the [MIT] License.<br>
 Authored and maintained by Carter Sprigings with help from contributors ([list][contributors]).
 
 > [dtmtheodds.com](http://dtmtheodds.com) &nbsp;&middot;&nbsp;
